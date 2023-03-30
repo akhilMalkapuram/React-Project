@@ -1,0 +1,29 @@
+.bg-container{
+    background-color: #20d16cd9;
+    height:100vh;
+    background-size: cover;
+    display: flex;
+}
+.container{
+    display: flex;
+    
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 20px;
+
+}
+.type{
+    margin-bottom: 20px;
+    padding: 4px;
+}
+.btn{
+    width: 200px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #fff;
+    background-color: #fff;
+    color: green;
+}
